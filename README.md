@@ -11,6 +11,7 @@ Problema à ser resolvido
 Trabalhadores de Negócio 
 
 ->Desenvolvedores  
+                * Conhecimento em programação e em economia de modo geral, para manter o aplicativo sempre atualizado de forma correta.
  
 Atores de Negócio 
 
