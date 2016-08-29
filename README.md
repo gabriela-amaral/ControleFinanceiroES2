@@ -10,11 +10,13 @@ Trabalhadores de Negócio
 Desenvolvedores  
  
 Atores de Negócio 
+
 Usuários (Quem precisa se organizar financeiramente) 
 Faixa etária: entre 16 e 45 anos (jovens que normalmente começam a ter dinheiro, até adultos que têm paciência pra usar aplicativos de celular); 
 Escolaridade: à partir do ensino médio; 
  
-Principais dados do negócio  
+Principais dados do negócio
+
 Aplicativo de controle financeiro pessoal, para organizar, planejar e otimizar as economias. 
 
 Regras de Negócio  
@@ -27,6 +29,7 @@ RN06 - Determinadas dividas podem ser pagas por partes;
 É possível pagar o valor mínimo (que é variável) de cartões de crédito. 
  
 Requisitos  
+
 RF01 - O sistema deve possibilitar registrar a(s) despesa(s) do mês corrente; 
 RF02 – O sistema deve possibilitar alterar a(s) receita(s) do mês corrente; 
 RF03 – O sistema deve possibilitar Registrar Pagamentos ; 
@@ -38,6 +41,7 @@ RNF03 - O sistema deve possibilitar segurança para os dados do usuário.
  
  
 Funcionais 
+
 RF01 - O sistema deve possibilitar registrar a(s) despesa(s) do mês corrente; 
 O sistema deve possibilitar que o usuário registre as despesas do mês a correr, o registro deve conter:  Categoria, Titulo, Data de Vencimento. 
 RF02 – O sistema deve possibilitar alterar a(s) receita(s) do mês corrente; 
@@ -50,6 +54,7 @@ RF05 – O sistema deve possibilitar Registrar  Compras;
 O sistema deve permitir que o usuário registre seus gastos. 
  
 Não-Funcionais 
+
 RNF01 – O sistema deve ser básico; 
 O sistema deve ter um layout básico e simples, para que seja de fácil manuseio á qualquer tipo de usuário. 
 RNF02 -  O sistema deve ser fácil sua manutenção. 
