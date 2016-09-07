@@ -1,6 +1,6 @@
 # Engenharia - MEU CONTROLE FINANCEIRO
 
-Problema à ser resolvido 
+PROBLEMA À SER RESOLVIDO 
 
 ->Algumas pessoas têm dificuldades em controlar seu próprio dinheiro, sem saber onde e com o que gastam. E se precisam de um planejamento ou corte despesas, não o conseguem por falto de registros pessoais sobre o fluxo de seu dinheiro. Pensando nisso, os problemas à serem resolvidos são: 
 
@@ -8,22 +8,20 @@ Problema à ser resolvido
      *Evitar esquecimentos das despesas e suas datas; 
      *Controle de reserva de dinheiro 
 
-Trabalhadores de Negócio 
 
-->Desenvolvedores  
-            * Conhecimento em programação e em economia de modo geral, para manter o aplicativo sempre atualizado de forma correta.
- 
-Atores de Negócio 
+ENVOLVIDOS
 
-->Usuários (Quem precisa se organizar financeiramente) 
-           Faixa etária: entre 16 e 45 anos (jovens que normalmente começam a ter dinheiro, até adultos que têm paciência pra usar aplicativos de celular); 
-           Escolaridade: à partir do ensino médio; 
+->Usuários (Quem precisa se organizar financeiramente)
+        * Faixa etária: entre 16 e 45 anos (jovens que normalmente começam a ter dinheiro, até adultos que têm paciência pra usar aplicativos de celular);
+        * Escolaridade: à partir do ensino médio;
  
-Principais dados do negócio
+ 
+PRINCIPAIS DADOS DO NEGÓCIO
 
 ->Aplicativo de controle financeiro pessoal, para organizar, planejar e otimizar as economias. 
 
-Regras de Negócio  
+
+REGRAS DE NEGÓCIO  
 
 *RN01 - A pessoa não pode pagar mais de uma vez a mesma conta; 
 
@@ -39,7 +37,8 @@ Regras de Negócio
 
   ->É possível pagar o valor mínimo (que é variável) de cartões de crédito. 
  
-Requisitos  
+ 
+REQUISITOS
 
 *RF01 - O sistema deve possibilitar registrar a(s) despesa(s) do mês corrente; 
 
@@ -58,7 +57,9 @@ Requisitos
 *RNF03 - O sistema deve possibilitar segurança para os dados do usuário.  
  
  
-Funcionais 
+DETALHAMENTO DE REQUISITOS
+
+FUNCIONAIS
 
 *RF01 - O sistema deve possibilitar registrar a(s) despesa(s) do mês corrente; 
 
@@ -80,7 +81,8 @@ O sistema deve permitir que o usuário consulte suas despesas e receitas atravé
 
 O sistema deve permitir que o usuário registre seus gastos. 
  
-Não-Funcionais 
+
+NÃO FUNCIONAIS
 
 *RNF01 - O sistema deve ser básico; 
 
