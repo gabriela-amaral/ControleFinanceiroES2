@@ -14,9 +14,11 @@ A maioria das pessoas têm dificuldades em controlar seu próprio dinheiro, sem 
 
 - ENVOLVIDOS
 
-Usuários (Quem precisa se organizar financeiramente)
-        * Faixa etária: entre 16 e 45 anos (jovens que normalmente começam a ter dinheiro, até adultos que têm paciência pra usar aplicativos de celular);
-        * Escolaridade: à partir do ensino médio;
+Usuários  (Quem precisa se organizar financeiramente)
+
+Faixa etária: entre 16 e 25 anos (jovens que normalmente começam a ter dinheiro, até adultos que têm paciência pra usar aplicativos de celular);
+
+Escolaridade: à partir do ensino médio.
 
 --
  
