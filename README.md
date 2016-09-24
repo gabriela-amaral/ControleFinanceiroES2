@@ -24,6 +24,6 @@ Escolaridade: à partir do ensino médio.
  
 - PRINCIPAIS DADOS DO NEGÓCIO
 
-Aplicativo de educação e controle financeiro pessoal, para organizar, planejar e otimizar as economias. 
+Trata-se do gerenciamento financeiro pessoal, o que não é exatamente um negócio, mas necessita de conhecimentos básicos de contabilidade. Assim como em uma micro-empresa, deve ser feito um controle das receitas e depesas, promover auto-avaliações, e estabelecer metas evolutivas para garantir a saúde financeira. Sendo tudo isso possível por meio de anotações em papel, no entanto, esses processos podem ser otimizados com o uso de uma aplicação mobile, que ajude no gerenciamento e educação das finanças.
 
 ---
