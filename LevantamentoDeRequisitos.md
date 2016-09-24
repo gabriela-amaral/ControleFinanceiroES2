@@ -30,7 +30,7 @@
   * RF18 - O sistema deve gerar dicas genéricas de economia;
   
   * RF19 - O sistema de possibilitar registrar (replicar) despesas em longo prazo antecipadamente para os meses seguintes;
-	* RF20 - O sistema deve possibilitar pagar as despesas registradas na RF19 por partes;
+  * RF20 - O sistema deve possibilitar pagar as despesas registradas na RF19 por partes;
   
 --
 - Não Funcionais
