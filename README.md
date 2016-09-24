@@ -2,11 +2,13 @@
 
 - PROBLEMA À SER RESOLVIDO
 
-Algumas pessoas têm dificuldades em controlar seu próprio dinheiro, sem saber onde e com o que gastam. E se precisam de um planejamento ou corte despesas, não o conseguem por falto de registros pessoais sobre o fluxo de seu dinheiro. Pensando nisso, os problemas à serem resolvidos são: 
+A maioria das pessoas têm dificuldades em controlar seu próprio dinheiro, sem saber onde e com o que gastam. Principalmente porque quando jovens não passam por um processo de educação financeira. Por isso quando chegam ao início da vida profissional e precisam de segurança para alcançar seus objetivos financeiros, não os conseguem por falta de planejamento e registros sobre o fluxo do dinheiro. Pensando nisso, os problemas à serem resolvidos são:
 
-     *Evitar desperdício de dinheiro e tempo; 
-     *Evitar esquecimentos das despesas e suas datas; 
-     *Controle de reserva de dinheiro. 
+    * Desperdício de dinheiro e tempo;
+    * Inconsciência dos gastos;
+    * Esquecimentos das despesas e suas datas;
+    * Impossibilidade de investimentos à longo prazo.
+
 
 --
 
