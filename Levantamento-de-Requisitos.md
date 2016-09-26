@@ -56,13 +56,14 @@
   * RF07 - O sistema deve possibilitar consultar a(s) receita(s), para isso o usuário deve clicar na aba de consulta e apertar o botão de “Consultar receita”;
   * RF08 - O sistema deve possibilitar consultar a(s) despesa(s), para isso o usuário deve clicar na aba de consulta e apertar o botão de “Consultar despesa”;
 
-  * RF09 - O sistema deve possibilitar criar categoria(s) de receita(s);
-  * RF10 - O sistema deve possibilitar alterar a(s) categoria(s) de receita(s);
-  * RF11 - O sistema deve possibilitar apagar a(s) categoria(s) de receita(s);
-
+  * RF09 - O sistema deve possibilitar criar categoria(s) de receita(s) preenchendo o seguinte campo, tipo de categoria.
+  * RF10 - O sistema deve possibilitar alterar a(s) categoria(s) de receita(s), modificando o campo de “Tipo de categoria”;
+  * RF11 - O sistema deve possibilitar apagar a(s) categoria(s) de receita(s), para isso o usuário deve clicar no botão de “Deletar Categoria”.
+  
   * RF12 - O sistema deve possibilitar criar categoria(s) de despesa(s) com o seguinte dado, tipo de categoria.
   * RF13 - O sistema deve possibilitar alterar a(s) categoria(s) de despesa(s), modificando o campo de “Tipo de categoria”;
   * RF14 - O sistema deve possibilitar apagar a(s) categoria(s) de despesa(s), para isso o usuário deve clicar no botão de “Deletar Categoria”.
+  
   * RF15 - O sistema deve notificar o usuário após 1 dia de inatividade; 
   * RF16 - O sistema deve gerar relatórios textuais;
   * RF17 - O sistema deve gerar relatórios gráficos;
