@@ -3,7 +3,7 @@
 - Funcionais
 
   * RF01 - O sistema deve possibilitar registrar a(s) despesa(s) do mês corrente;
-* O Pagamento a vista, pagamento parcelado e pagamento de contas mensais (luz, telefone) (com data de vencimento)
+	* O Pagamento a vista, pagamento parcelado e pagamento de contas mensais (luz, telefone) (com data de vencimento)
   * RF02 - O sistema deve possibilitar alterar a(s) despesa(s) do mês corrente;
   * RF03 - O sistema deve possibilitar apagar a(s) despesa(s) do mês corrente;
   * RF04 - o sistema deve possibilitar registrar o pagamento da(s) despesa(s) do mês corrente registrada na RF01;
